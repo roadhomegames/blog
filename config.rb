@@ -33,11 +33,10 @@ end
 
 # Required
 set :blog_url, 'http://www.example.com'
-set :blog_name, 'Middleman'
-set :blog_description, 'Makes developing websites simple.'
-set :author_name, 'Middleman'
-set :author_bio, 'Middleman is a static site generator using all the ' \
-                 'shortcuts and tools in modern web development.'
+set :blog_name, 'Road Home Games'
+set :blog_description, 'Home of internet detective Penny Purdue'
+set :author_name, 'RoadHomeGames'
+set :author_bio, 'Net Detective'
 # Optional
 set :author_locaton, nil
 set :author_website, nil
