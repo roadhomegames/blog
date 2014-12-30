@@ -1,0 +1,17 @@
+.net-detective-logo img {
+    display: block;
+    width: auto;
+    margin: 0 auto;
+    line-height: 0;
+}
+
+.apple-link img {
+	height: 100px;
+	margin: 0px 50px 5px 50px;
+}
+
+.google-play-link img {
+	height: 125px;
+	margin: 0px 50px 0px 50px;
+	vertical-align: bottom;
+}

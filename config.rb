@@ -40,7 +40,7 @@ set :author_bio, 'Net Detective'
 # Optional
 set :author_locaton, nil
 set :author_website, nil
-set :blog_logo, nil
+set :blog_logo, 'WebsiteBanner1.png'
 
 page '/feed.xml', layout: false
 
