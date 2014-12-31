@@ -20,11 +20,11 @@ People had fun playing this version of the game, but it suffered from some serio
 
 I don't really use smartphones. This is a problem for someone making a game designed to be played on smartphones. That may be why my initial design incorporated such a fundamental mistake. So in designing the update, I was inspired by an old story about the design of the original Palm Pilot back when I worked at Palm. They would tell all their new employees the story of how company founder Jeff Hawkins cut out a block of wood in the shape of the device and carried it around for months in his pocket before the device actually existed. It turns out this is a somewhat famous example of something called <a href="http://pretotyping.blogspot.com/2010/08/one-of-my-favorite-pretotype-stories.html">pretotyping</a>. Well, I don't have a woodshop, but I do have plenty of empty cereal boxes and access to Elmer's glue, so I decided I would make my own physical interface models to play with. I needed to make an interface that would work properly on small old devices and scale up to the big new devices with giant screens, but couldn't afford to buy all these devices to test on. So I made a bunch of cardboard cutouts that look like this:
 
-<a href="/images/Cardboard1.jpg"><img class="size-medium wp-image-103" alt="Front of device" src="/images/Cardboard1.jpg" width="300" height="156" /></a> Front of cardboard "device"
+<a href="images/Cardboard1.jpg"><img class="size-medium wp-image-103" alt="Front of device" src="images/Cardboard1.jpg" width="300" height="156" /></a> Front of cardboard "device"
 
-<a href="/images/Cardboard21.jpg"><img class="size-medium wp-image-104" alt="Screen grid" src="/images/Cardboard21.jpg" width="300" height="198" /></a> Screen grid
+<a href="images/Cardboard21.jpg"><img class="size-medium wp-image-104" alt="Screen grid" src="images/Cardboard21.jpg" width="300" height="198" /></a> Screen grid
 
-<a href="/images/Cardboard3.jpg"><img class="size-medium wp-image-105" alt="Rear showing description" src="/images/Cardboard3.jpg" width="156" height="300" /></a> Rear showing description
+<a href="images/Cardboard3.jpg"><img class="size-medium wp-image-105" alt="Rear showing description" src="images/Cardboard3.jpg" width="156" height="300" /></a> Rear showing description
 
 I used these cardboard cutouts so I could have something to hold in my hands and feel and tap and swipe to get a sense for how much information I could pack onto a screen before it became too cramped to easily read and touch. I came up with the sizing for the partitions in the grid image above based on the size of home-screen icons on the iPhone4, figuring Apple had done lots of usability testing to ensure icons of this size were pleasing to interact with.
 
@@ -34,7 +34,7 @@ My goals in the updated interface were that interface elements be very usable an
 
 Here are shots of some of the various phases of the new interface over the course of development:
 
-<a href="/images/Screenshot1.png"><img class="aligncenter size-medium wp-image-107" alt="Screenshot1" src="/images/Screenshot1.png" width="300" height="180" /></a> <a href="/images/Screenshot.png"><img class="aligncenter size-medium wp-image-108" alt="Screenshot" src="/images/Screenshot.png" width="300" height="179" /></a>And after going through numerous iterations and doing a bunch of playtesting, I wound up with the interface you can see in the final game:
+<a href="images/Screenshot1.png"><img class="aligncenter size-medium wp-image-107" alt="Screenshot1" src="images/Screenshot1.png" width="300" height="180" /></a> <a href="images/Screenshot.png"><img class="aligncenter size-medium wp-image-108" alt="Screenshot" src="images/Screenshot.png" width="300" height="179" /></a>And after going through numerous iterations and doing a bunch of playtesting, I wound up with the interface you can see in the final game:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/errFp7kuI0k" frameborder="0" allowfullscreen></iframe>
 

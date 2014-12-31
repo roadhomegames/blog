@@ -3,7 +3,7 @@ title: Investigations
 date: 2014-12-23
 ---
 
-<a href="/images/Investigations.png"><img class="size-medium wp-image-39" alt="Conducting an investigation" src="/images/Investigations.png" width="300" height="300" /></a>
+<a href="images/Investigations.png"><img class="size-medium wp-image-39" alt="Conducting an investigation" src="images/Investigations.png" width="300" height="300" /></a>
 
 The internet can be like a puzzle sometimes.
 
