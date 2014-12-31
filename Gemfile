@@ -16,3 +16,5 @@ gem 'redcarpet', '~> 3.2.1'
 # For "summary"-Helper
 gem 'nokogiri', '~> 1.6.5'
 gem 'sanitize', '~> 3.0.3'
+
+gem 'middleman-gh-pages'

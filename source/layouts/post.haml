@@ -1,12 +1,12 @@
 %main.content{role: :main}
-  %article.post.tag-getting-started
-    %header.post-header
-      %a.blog-logo{href: '/'}
-        - if blog_logo?
-          = image_tag blog_logo, alt: 'Blog Logo'
-        - else
-          %span.blog-title= blog_name
+  .net-detective-post-container
+    %a.net-detective-post{href: '/'}
+      - if blog_logo?
+        = image_tag blog_logo, alt: 'Blog Logo'
+      - else
+        %span.blog-title= blog_name
 
+  %article.post.tag-getting-started
     %span.post-meta
       %time{datetime: current_article.date.strftime('%Y-%m-%d')}
         = current_article.date.strftime('%d %b %Y')
